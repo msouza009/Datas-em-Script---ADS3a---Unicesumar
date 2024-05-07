@@ -1,4 +1,7 @@
 ### README
+Atividade: 06/05/2024
+Regex - Unicesumar Turma: ADS-3a 
+Email Unicesumar: ra-23371012-2@alunos.unicesumar.edu.br
 
 #### Descrição
 Esta função JavaScript `validarFormulario()` foi criada para validar os campos de entrada de um formulário para nome, email e número de telefone. Ela garante que os dados fornecidos atendam a certos critérios antes da submissão.
